@@ -1,1 +1,1 @@
-# python_algorithms
+* [Binary search](binary_search.py)
