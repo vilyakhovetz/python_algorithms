@@ -1,8 +1,7 @@
 def quick_sort(array, reverse=False):
     """
-    Function for sorting the list in ascending order.
+    Function for sorting the list in ascending order (in ascending order by default).
     The reverse flag can be set to sort in descending order.
-    Returns new list.
     """
     if len(array) < 2:
         return array
